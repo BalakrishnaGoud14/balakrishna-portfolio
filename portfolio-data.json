@@ -1,0 +1,192 @@
+{
+  "settings": {
+    "name": "Balakrishna Goud Malela",
+    "title": "Looking for Software Engineer roles",
+    "location": "",
+    "summary": "Motivated software engineer with expertise in web development, software optimization, programming, and database management.",
+    "profileImage": "Bala.jpeg",
+    "primaryColor": "#0067c7"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Contact Me",
+          "url": "mailto:malelabalakrishnagoudofficial@gmail.com",
+          "isPrimary": true,
+          "icon": "mail",
+          "download": false
+        },
+        {
+          "text": "Download Resume",
+          "url": "Balakrishna_Goud_Malela_Resume.pdf",
+          "isPrimary": true,
+          "icon": "download",
+          "download": true
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "title": "About Me",
+      "content": "Motivated software engineer with a strong technical foundation and a year of hands-on experience in web development and software optimization. Demonstrated expertise in programming and database management, evidenced by improving document processing speeds and efficient debugging in enterprise applications. Adept at collaborating with cross-functional teams and managing independent projects while quickly adapting to new technologies. ",
+      "skills": {
+        "enabled": true,
+        "title": "Skills",
+        "items": [
+          "Python",
+          "Java",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "PL/SQL",
+          "iBPS",
+          "Oracle Database",
+          "PHP",
+          "SVN",
+          "Version Control",
+          "Web Development",
+          "Debugging",
+          "SDLC",
+          "Agile Methodologies",
+          "Problem Solving",
+          "Cross-Functional Collaboration",
+          "Automation Testing",
+          "XML"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Experience",
+      "items": [
+        {
+          "company": "Newgen Software Pvt Ltd",
+          "position": "Application Engineer",
+          "period": "Aug 2023 - Jul 2024",
+          "description": "Developed and optimized the Document Generation feature for the Agricultural Loan Origination System (ALOS) using robust software development practices, improving document processing speed for the State Bank of India. Collaborated with a cross-functional team of 10+ engineers using Agile methodologies, ensuring seamless integration of document workflows into the banking system. Implemented efficient Oracle database queries, leveraging SQL expertise to reduce response time."
+        },
+        {
+          "company": "Newgen Software Pvt Ltd",
+          "position": "Application Engineer Intern",
+          "period": "Feb 2023 - Jul 2023",
+          "description": "Gained hands-on experience with iBPS (Intelligent Business Process Suite) while designing, coding, and testing workflow automation solutions, thereby improving business process efficiency. Assisted in debugging and optimizing enterprise-level applications, ensuring a 99.9% uptime for critical banking services and demonstrating strong problem-solving skills in software development."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Projects",
+      "items": [
+        {
+          "title": "RentalsBook - Car Rental Management System",
+          "description": "Designed and developed a scalable web application for car rental bookings using PHP, MySQL, JavaScript, HTML, and CSS. Integrated secure authentication and an admin dashboard, improving booking efficiency.",
+          "tags": [
+            "PHP",
+            "MySQL",
+            "JavaScript",
+            "HTML",
+            "CSS"
+          ],
+          "previewUrl": "#"
+        },
+        {
+          "title": "Automation Testing for Dynamic GUI Interfaces",
+          "description": "Developed an end-to-end testing utility using Playwright, Python, automating UI tests for dynamic web applications. Improved test coverage by significantly reducing manual QA efforts.",
+          "tags": [
+            "Playwright",
+            "Python"
+          ],
+          "previewUrl": "#"
+        },
+        {
+          "title": "SBI Agricultural Loan Origination System (ALOS)",
+          "description": "Led the Document Generation feature development, utilizing HTML, CSS, JavaScript, and Oracle. Optimized document handling workflows, enhancing operational efficiency.",
+          "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Oracle DB",
+            "Java",
+            "iBPS",
+            "XML"
+          ],
+          "previewUrl": "#"
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Texas Tech University",
+          "degree": "Master of Science, Computer Science",
+          "period": "Aug 2024 - Present",
+          "cgpa": "3.5/4"
+        },
+        {
+          "institution": "Graphic Era University",
+          "degree": "Bachelor of Technology, Electronics and Communication Engineering",
+          "period": "2019 - 2023",
+          "cgpa": "9.27/10"
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "malelabalakrishnagoudofficial@gmail.com",
+      "phone": "",
+      "location": "Lubbock, Texas, USA"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "LinkedIn",
+          "url": "https://www.linkedin.com/in/balakrishna-goud-malela-224a2b200",
+          "icon": "globe"
+        },
+        {
+          "platform": "GitHub",
+          "url": "https://github.com/BalakrishnaGoud14",
+          "icon": "globe"
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "items": [
+      {
+        "name": "",
+        "url": "#hero"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 Balakrishna Goud Malela. All rights reserved."
+  }
+}
