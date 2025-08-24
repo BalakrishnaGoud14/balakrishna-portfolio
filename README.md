@@ -8,7 +8,7 @@ Built using modern web technologies including HTML, CSS, and JavaScript.
 
 - Responsive design for mobile and desktop  
 - Smooth navigation with a sticky header  
-- Project showcase with live links and descriptions  
+- Project showcase with the descriptions  
 - Contact details for easy communication  
 
 ## Purpose
