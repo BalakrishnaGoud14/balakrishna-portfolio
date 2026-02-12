@@ -95,9 +95,9 @@
               ],
               "previewUrl": "https://github.com/BalakrishnaGoud14/QuizBot-Streamlit-Network-Security-Quiz-Q-A"
           },
-        {
+       {
           "title": "A Textbook Remedy for Domain Shifts - Medical Image Analysis",
-          "description": "Implemented a research project exploring knowledge‑enhanced bottleneck models (KnoBo) to improve robustness of medical image analysis against domain shifts using retrieval‑augmented concept priors. Evaluated methods across multiple medical imaging datasets, showing significant improvements in out‑of‑domain performance.",
+          "description": "Implemented a knowledge-enhanced bottleneck model (KnoBo) to improve robustness of medical image analysis against domain shifts. Evaluated across multiple datasets, achieving significant improvements in out-of-domain performance.",
           "tags": [
             "Python",
             "Machine Learning",
