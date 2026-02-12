@@ -114,10 +114,12 @@
           "description": "Designed and developed a scalable web application for car rental bookings using PHP, MySQL, JavaScript, HTML, and CSS. Integrated secure authentication and an admin dashboard, improving booking efficiency.",
           "tags": [
             "PHP",
-            "MySQL",
-            "JavaScript",
             "HTML",
-            "CSS"
+            "CSS",
+            "JavaScript",
+            "MySQL",
+            "REST API",
+            "Rental Application"
           ],
           "previewUrl": "https://github.com/BalakrishnaGoud14/-RentalsBook-Car-Rental-Management-System"
         },
