@@ -108,8 +108,8 @@
           "previewUrl": "https://github.com/BalakrishnaGoud14/-RentalsBook-Car-Rental-Management-System"
         },
         {
-          "title": "Automation Testing for Dynamic GUI Interfaces",
-          "description": "Developed an end-to-end testing utility using Playwright, Python, automating UI tests for dynamic web applications. Improved test coverage by significantly reducing manual QA efforts.",
+          "title": "Automation Testing Utility for Dynamic GUI Interfaces",
+          "description": "Developed a modular automation testing tool using Playwright and Python to validate dynamic UI workflows including authentication, navigation, and form inputs. Integrated reporting and structured test execution to improve regression testing efficiency and reduce manual QA efforts.",
           "tags": [
             "Playwright",
             "Python"
