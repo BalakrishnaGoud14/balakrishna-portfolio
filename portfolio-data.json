@@ -95,6 +95,20 @@
               ],
               "previewUrl": "https://github.com/BalakrishnaGoud14/QuizBot-Streamlit-Network-Security-Quiz-Q-A"
           },
+        {
+          "title": "A Textbook Remedy for Domain Shifts - Medical Image Analysis",
+          "description": "Implemented a research project exploring knowledge‑enhanced bottleneck models (KnoBo) to improve robustness of medical image analysis against domain shifts using retrieval‑augmented concept priors. Evaluated methods across multiple medical imaging datasets, showing significant improvements in out‑of‑domain performance.",
+          "tags": [
+            "Python",
+            "Machine Learning",
+            "Medical Imaging",
+            "Domain Shift",
+            "KnoBo",
+            "Research"
+          ],
+          "previewUrl": "https://github.com/BalakrishnaGoud14/A-Textbook-Remedy-for-Domain-Shifts-Knowledge-Priors-for-Medical-Image-Analysis"
+        },
+        
           {
           "title": "RentalsBook - Car Rental Management System",
           "description": "Designed and developed a scalable web application for car rental bookings using PHP, MySQL, JavaScript, HTML, and CSS. Integrated secure authentication and an admin dashboard, improving booking efficiency.",
