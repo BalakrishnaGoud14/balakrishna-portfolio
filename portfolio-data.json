@@ -30,7 +30,11 @@
     "about": {
       "enabled": true,
       "title": "About Me",
-      "content": "Motivated Software Engineer with a strong technical foundation and 1.6 years of hands-on experience in web development and software optimization. Proven expertise in programming, database management, and performance tuning, demonstrated by improving document processing speeds and debugging enterprise applications for maximum uptime. Skilled at collaborating with cross-functional teams, managing independent projects, and adapting quickly to emerging technologies.",
+      "content": "Results-driven Software Engineer with hands-on experience delivering enterprise solutions at Newgen Software, where I improved
+document processing speeds by 40% for the State Bank of India. Currently pursuing my Master’s in Computer Science at Texas Tech
+University (3.5 GPA), I combine academic excellence with expertise in full-stack development, database optimization, and automation
+testing. Seeking software engineering opportunities to leverage my technical skills in Java, Python, JavaScript, and Oracle SQL to drive
+measurable impact through innovative solutions.",
       "skills": {
         "enabled": true,
         "title": "Skills",
