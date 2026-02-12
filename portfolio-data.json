@@ -111,8 +111,10 @@
           "title": "Automation Testing Utility for Dynamic GUI Interfaces",
           "description": "Developed a modular automation testing tool using Playwright and Python to validate dynamic UI workflows including authentication, navigation, and form inputs. Integrated reporting and structured test execution to improve regression testing efficiency and reduce manual QA efforts.",
           "tags": [
+            "Python",
             "Playwright",
-            "Python"
+            "Automation Testing",
+            "GUI Testing"
           ],
           "previewUrl": "https://github.com/BalakrishnaGoud14/Automation-Testing-Utility-for-Dynamic-GUI-Interfaces"
         },
