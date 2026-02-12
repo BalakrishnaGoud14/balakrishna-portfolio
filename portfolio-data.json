@@ -80,22 +80,21 @@
       "enabled": true,
       "title": "Projects",
       "items": [
-        {
-            "title": "QuizBot - AI-Powered Network Security Learning Tool",
-            "description": "Developed QuizBot, an AI-powered network security learning tool using Streamlit and local LLMs (Ollama). The tool allows users to generate interactive quizzes (MCQs & True/False) and ask free-form questions, with optional context from lecture PDFs. Key features include interactive quizzes with automatic evaluation and color-coded feedback, free-form Q&A backed by a RAG pipeline with PDF context and web fallback, local model execution using Ollama llama3.2:latest and sentence-transformers embeddings, a beautiful Streamlit UI with gradient headers and card-style questions, and CLI support for rebuilding the vector store and testing questions.",
-            "tags": [
-              "Python",
-              "Streamlit",
-              "AI",
-              "LLM",
-              "Network Security",
-              "Quiz Application",
-              "RAG Pipeline",
-              "Ollama"
-            ],
-            "previewUrl": "https://github.com/BalakrishnaGoud14/QuizBot-Streamlit-Network-Security-Quiz-Q-A"
+           {
+              "title": "QuizBot - AI-Powered Network Security Learning Tool",
+              "description": "Developed QuizBot using Streamlit and local LLMs (Ollama) to create interactive quizzes and free-form Q&A with PDF context. Features include automatic evaluation, color-coded feedback, and a sleek Streamlit UI with CLI support.",
+              "tags": [
+                "Python",
+                "Streamlit",
+                "AI",
+                "LLM",
+                "Network Security",
+                "Quiz Application",
+                "RAG Pipeline",
+                "Ollama"
+              ],
+              "previewUrl": "https://github.com/BalakrishnaGoud14/QuizBot-Streamlit-Network-Security-Quiz-Q-A"
           },
-          
           {
           "title": "RentalsBook - Car Rental Management System",
           "description": "Designed and developed a scalable web application for car rental bookings using PHP, MySQL, JavaScript, HTML, and CSS. Integrated secure authentication and an admin dashboard, improving booking efficiency.",
