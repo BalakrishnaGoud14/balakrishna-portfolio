@@ -63,6 +63,22 @@
       "title": "Experience",
       "items": [
         {
+          "title": "AccessAI - AI-Powered Access Management System",
+          "description": "Architected a full-stack RBAC platform with 3 role-based portals (Employee, Manager, Security Admin) integrating Groq LLaMA 3.3 70B via Spring AI to auto-classify access requests by security risk level, generate AI explanations, and escalate high-risk cases. Features RESTful APIs secured with Spring Security, timestamped audit logs, and deployment on Render and Vercel.",
+          "tags": [
+              "React",
+              "Spring Boot",
+              "PostgreSQL",
+              "Groq API",
+              "LLaMA 3.3 70B",
+              "Spring AI",
+              "Spring Security",
+              "RBAC",
+              "REST API"
+          ],
+          "previewUrl": "https://github.com/balakrishnagoud/accessai"
+      },
+        {
           "company": "Newgen Software Pvt Ltd",
           "position": "Application Engineer",
           "period": "Aug 2023 - Jul 2024",
