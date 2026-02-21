@@ -82,7 +82,7 @@
       "items": [
           {
             "title": "AccessAI - AI-Powered Access Management System",
-            "description": "Architected a full-stack RBAC platform with 3 role-based portals (Employee, Manager, Security Admin) integrating Groq LLaMA 3.3 70B via Spring AI to auto-classify access requests by security risk level, generate AI explanations, and escalate high-risk cases. Features RESTful APIs secured with Spring Security, timestamped audit logs, and deployment on Render and Vercel.",
+            "description": "Full-stack RBAC platform with 3 role-based portals, integrating Groq LLaMA via Spring AI to classify access requests by risk, escalate high-risk cases, and enforce audit logs.",
             "tags": [
                 "React",
                 "Spring Boot",
