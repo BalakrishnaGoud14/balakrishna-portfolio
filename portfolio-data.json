@@ -80,6 +80,22 @@
       "enabled": true,
       "title": "Projects",
       "items": [
+
+        {
+            "title": "zezzly - Real-Time Job Discovery Platform",
+            "description": "Full-stack job aggregation platform that pulls listings directly from ATS providers like Greenhouse, Lever, and Ashby, refreshing every 30 minutes and surfacing only jobs posted within the last 24 hours.",
+            "tags": [
+                "React",
+                "FastAPI",
+                "PostgreSQL",
+                "Python",
+                "SQLAlchemy",
+                "Tailwind CSS",
+                "REST API",
+                "JWT Auth"
+            ],
+            "previewUrl": "https://github.com/BalakrishnaGoud14/zezzly-open-source"
+        },
           {
             "title": "AccessAI - AI-Powered Access Management System",
             "description": "Full-stack RBAC platform with 3 role-based portals, integrating Groq LLaMA via Spring AI to classify access requests by risk, escalate high-risk cases, and enforce audit logs.",
