@@ -30,7 +30,7 @@
     "about": {
       "enabled": true,
       "title": "About Me",
-      "content": "Software Engineer with 3+ years of experience building production-grade systems. At Newgen Software, optimized document processing by 40% for the State Bank of India. Currently pursuing my Master's in CS at Texas Tech University (3.5 GPA). Built Zezzly, a real-time job discovery platform pulling live listings from ATS providers like Greenhouse and Lever, and AccessAI, an AI-powered access governance system using LLaMA 3.3 70B. Skilled in Java, Spring Boot, Python, FastAPI, and React. Open to Software Engineer / Backend Engineer roles across the US.",
+      "content": "Software Engineer with 3+ years of experience building production-grade systems. At Newgen Software, optimized document processing by 40% for the State Bank of India. Currently pursuing my Master's in CS at Texas Tech University (3.5 GPA). Built zezzly, a real-time job discovery platform pulling live listings from ATS providers like Greenhouse and Lever, and AccessAI, an AI-powered access governance system using LLaMA 3.3 70B. Skilled in Java, Spring Boot, Python, FastAPI, and React. Open to Software Engineer / Backend Engineer roles across the US.",
       "skills": {
         "enabled": true,
         "title": "Skills",
