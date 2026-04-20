@@ -52,6 +52,12 @@
       "title": "Experience",
       "items": [
         {
+          "company": "Texas Tech University",
+          "position": "Graduate Assistant — Full Stack Developer",
+          "period": "Sep 2024 - Present",
+          "description": "Designed and developed a scalable event-driven backend using FastAPI and Python asyncio to automate IT Help Center workflows, reducing manual overhead for a campus of 40,000+ users. Built and deployed RESTful APIs with CI/CD pipelines via GitHub Actions, improving system reliability and uptime. Collaborated with IT stakeholders to deliver production-ready software solutions aligned with institutional requirements."
+        },
+        {
           "company": "Newgen Software Pvt Ltd",
           "position": "Application Engineer",
           "period": "Aug 2023 - Jul 2024",
