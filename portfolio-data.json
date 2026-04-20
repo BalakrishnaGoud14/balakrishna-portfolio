@@ -30,7 +30,7 @@
     "about": {
       "enabled": true,
       "title": "About Me",
-      "content": "Results-driven Software Engineer with hands-on experience delivering enterprise solutions at Newgen Software, where I improved document processing speeds by 40% for the State Bank of India. Currently pursuing my Master’s in Computer Science at Texas Tech University (3.5 GPA), I combine academic excellence with expertise in full-stack development, database optimization, and automation testing. Seeking software engineering opportunities to leverage my technical skills in Java, Python, JavaScript, and Oracle SQL to drive measurable impact through innovative solutions.",
+      "content": "Software Engineer with 3+ years of experience building production-grade systems. At Newgen Software, optimized document processing by 40% for the State Bank of India. Currently pursuing my Master's in CS at Texas Tech University (3.5 GPA). Built Zezzly, a real-time job discovery platform pulling live listings from ATS providers like Greenhouse and Lever, and AccessAI, an AI-powered access governance system using LLaMA 3.3 70B. Skilled in Java, Spring Boot, Python, FastAPI, and React. Open to Software Engineer / Backend Engineer roles across the US.",
       "skills": {
         "enabled": true,
         "title": "Skills",
