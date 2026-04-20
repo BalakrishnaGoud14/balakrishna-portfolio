@@ -1,13 +1,13 @@
 {
   
   "settings": {
-      "name": "Balakrishna Goud Malela",
-      "title": "Software Engineer | Java · Spring Boot · Python · FastAPI | 3+ YOE | Open to Work",
-      "location": "Lubbock, TX · Open to Remote & Relocation",
-      "summary": "Software Engineer with 3+ YOE delivering production-grade enterprise solutions. Currently pursuing Master's in Computer Science at Texas Tech University with a 3.5 GPA.",
-      "profileImage": "Bala.jpeg",
-      "primaryColor": "#0067c7"
-   },
+    "name": "Balakrishna Goud Malela",
+    "title": "Looking for Software Engineer roles",
+    "location": "",
+    "summary": "Software Engineer with 3+ years of professional experience building production-grade systems. Pursuing Master's in Computer Science at Texas Tech University (3.5 GPA). Built zezzly, a real-time job aggregation platform surfacing only last 24-hour listings. Skilled in Java, Spring Boot, Python, and FastAPI.",
+    "profileImage": "Bala.jpeg",
+    "primaryColor": "#0067c7"
+  },
   "sections": {
     "hero": {
       "enabled": true,
