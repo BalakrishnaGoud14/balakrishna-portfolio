@@ -71,7 +71,7 @@
       "items": [
 
         {
-            "title": "zezzly - Real-Time Job Discovery Platform",
+            "title": "zezzly - Jobs posted in the last 24 hours. Nothing older.",
             "description": "Full-stack job aggregation platform that pulls listings directly from ATS providers like Greenhouse, Lever, and Ashby, refreshing every 30 minutes and surfacing only jobs posted within the last 24 hours.",
             "tags": [
                 "React",
